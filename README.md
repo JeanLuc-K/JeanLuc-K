@@ -1,33 +1,36 @@
 # 👋 Hi, I'm Jean Luc
 
-I'm a **Computer Science student at the American University of Beirut (AUB)** and a **Junior AI & Software Engineer at Siren Analytics**, where I build production-ready solutions that combine backend engineering, frontend development, and applied AI.
+### ⚠️ Note on GitHub Activity
+Many of my current projects are private or under NDA as part of my work at Siren Analytics, so my public GitHub activity doesn’t fully reflect my ongoing hands-on development.  
+
+---
+
+I'm a **Computer Science student at the American University of Beirut (AUB)** and a **Junior AI & Software Engineer at Siren Analytics**, where I build production-ready solutions combining backend, frontend, and AI systems.
 
 ---
 
 ### 💼 Professional Focus
-- **AI Systems:** Improved a production chatbot by reducing hallucinations, refining prompt engineering, and enhancing context retention and accuracy.  
-- **Backend Development:** Implemented and optimized features using **Java Spring Boot**; maintained **PostgreSQL** databases with **Flyway**; improved performance and reliability.  
-- **Frontend Development:** Built responsive, modular interfaces with **Angular**, ensuring smooth design integration via **Figma**.  
-- **Agile Collaboration:** Contributed to a **12-person cross-functional team** using **Jira**, participating in daily scrums and sprint reviews to deliver high-quality production code.
+- **Full-Stack Development:** Contributed to confidential production projects, including **frontend, backend, and database work**, improving system reliability, performance, and overall functionality.  
+- **AI Systems:** Applied AI techniques to enhance system behavior, ensure accurate results, and optimize performance, all while respecting privacy and compliance requirements.  
+- **Agile Collaboration:** Worked in cross-functional Agile teams, participating in daily scrums, sprint planning, and code reviews to deliver high-quality, production-ready software.
 
 ---
 
 ### ⚙️ Technical Skills
-**Languages & Frameworks:** Java, Python, C++, C, JavaScript, React, Angular, HTML, CSS  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, Jira, Figma, Flyway, Linux (Ubuntu)  
+**Languages & Frameworks:** [Details withheld due to confidentiality; experience in frontend, backend, and database development]  
+**Databases & Tools:** Experience managing production systems, data integrity, and deployment processes in enterprise environments  
 
 ---
 
 ### 🚀 Projects
 **🎮 Battleship Game with AI (AUB)**  
-Developed a complete Battleship game featuring an AI opponent that uses strategic algorithms to simulate adaptive gameplay.
+Developed a complete Battleship game featuring an AI opponent using strategic algorithms to simulate adaptive gameplay.
 
 **📖 Research – Large Language Models (URVP, AUB)**  
-Explored the behavior and design of LLMs as part of a research grant application, strengthening understanding of machine learning and natural language processing principles.
+Explored the behavior and design of LLMs as part of a research grant application, deepening my understanding of machine learning and natural language processing principles.
 
 ---
 
-🧠 **Current Interests:** AI system reliability, backend architecture, frontend designs and deploying scalable machine learning tools.
+🧠 **Current Interests:** AI system reliability, backend architecture, frontend design, and deploying scalable machine learning solutions.
 
 📫 **Connect:** [LinkedIn](https://linkedin.com/in/jean-luc-kiami) | [Email](mailto:jeanluc.kiami@gmail.com)
