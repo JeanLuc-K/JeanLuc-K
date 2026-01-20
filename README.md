@@ -22,15 +22,6 @@ I'm a **Computer Science student at the American University of Beirut (AUB)** an
 
 ---
 
-### 🚀 Projects
-**🎮 Battleship Game with AI (AUB)**  
-Developed a complete Battleship game featuring an AI opponent using strategic algorithms to simulate adaptive gameplay.
-
-**📖 Research – Large Language Models (URVP, AUB)**  
-Explored the behavior and design of LLMs as part of a research grant application, deepening my understanding of machine learning and natural language processing principles.
-
----
-
 🧠 **Current Interests:** AI system reliability, backend architecture, frontend design, and deploying scalable machine learning solutions.
 
 📫 **Connect:** [LinkedIn](https://linkedin.com/in/jean-luc-kiami) | [Email](mailto:jeanluc.kiami@gmail.com)
